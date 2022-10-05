@@ -1,0 +1,17 @@
+/*body {
+    background: pink;
+}*/
+
+#bored-button {
+    background-color: rgb(235, 235, 235);
+    border: solid 1px black;
+    padding: 20px;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+}
+
+#idea-text {
+    font-size: 40px;
+    text-align: center;
+}
